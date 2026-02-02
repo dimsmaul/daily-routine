@@ -1,0 +1,1 @@
+export { default } from '@modules/home/tabs/setting/view/setting_view';

@@ -1,0 +1,1 @@
+export { default } from '@modules/home/tabs/dashboard/view/dashboard_view';

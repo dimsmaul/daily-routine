@@ -1,0 +1,1 @@
+export { default } from '@modules/home/tabs/activity/view/activity_view';

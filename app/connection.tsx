@@ -1,0 +1,1 @@
+export { default } from '@modules/connection/view/connection_view';

@@ -1,0 +1,20 @@
+{
+  "navigation": "expo-router",
+  "features": [],
+  "architecture": "modular",
+  "srcDir": "src",
+  "modulesDir": "src/modules",
+  "componentsDir": "src/components",
+  "hooksDir": "src/hooks",
+  "storesDir": "src/stores",
+  "uiComponentsDir": "src/components/ui",
+  "packageManager": "pnpm",
+  "namingConvention": {
+    "files": "snake_case",
+    "exports": "PascalCase",
+    "hooks": "camelCase"
+  },
+  "autoRouting": true,
+  "autoImport": true,
+  "autoBarrelExport": true
+}
