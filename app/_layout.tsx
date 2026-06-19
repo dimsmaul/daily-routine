@@ -23,7 +23,6 @@ export default function RootLayout() {
             headerShown: false,
             contentStyle: {
               backgroundColor: colors.background,
-
             },
           }}
           key={colorScheme}
